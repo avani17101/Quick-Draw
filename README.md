@@ -7,3 +7,4 @@ Have the emoji's you want to be displayed while you draw an object in a folder n
 Now run the file LoadData.py.This shall load all your dataset.
 Then run QD-trainer.py .(ps: be paitent!it may take a while to train your model)
 Finally run QuickDrawApp.py to play with your newly trained model.
+References : Akshay Bahadur's Quick Draw Proejct
